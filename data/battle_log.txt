@@ -1,0 +1,14 @@
+Battle started: Aayush vs Goblin
+Aayush dealt 35 damage to Goblin
+Aayush dealt 35 damage to Goblin
+Goblin defeated. Reward gold: 15
+Battle started: Aayush vs Orc
+Aayush dealt 35 damage to Orc
+Aayush dealt 35 damage to Orc
+Aayush dealt 35 damage to Orc
+Orc defeated. Reward gold: 25
+Battle started: Aayush vs Dragon
+Aayush dealt 35 damage to Dragon
+Aayush dealt 35 damage to Dragon
+Aayush dealt 35 damage to Dragon
+Aayush was defeated.
